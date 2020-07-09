@@ -57,7 +57,7 @@ That way, you can spend more time exploring who you really are, being more produ
 - My pronouns are [she/her](https://pronoun.is/she/her) and [they/them](https://pronoun.is/they/them).
 
 ### Contact 📬
-- [LinkedIn] (https://www.linkedin.com/in/jessicalewinter/)
-- [Twitter] (https://twitter.com/jazzfaleci)
-- [Email] (mailTo:jessicalewinter@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jessicalewinter/)
+- [Twitter](https://twitter.com/jazzfaleci)
+- [Email](mailTo:jessicalewinter@gmail.com)
 - [Portfolio] (still developing a website)
