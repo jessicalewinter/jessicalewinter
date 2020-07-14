@@ -1,4 +1,4 @@
-## <Hello folks/> 👋
+## <Hello folks\/> 👋
 
 Hi! I am Jessica Lewinter, I'm 25 yo iOS Developer with 2.5 years of experience and I'm from Fortaleza-Brazil. I'm very passionate about creating mobile applications and it was in this field that my personal and professional projects were created. I love learning different things every day and also enjoy sharing my knowledge with the community.
 
